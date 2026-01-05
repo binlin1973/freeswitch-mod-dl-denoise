@@ -17,7 +17,7 @@ SIP Account 1: 1095
 
 SIP Account 2: 1096
 
-Password (for both): linyutest_ys.
+Password (for both): linyu123456!
 
 After registering both accounts, place a call between them. Try speaking, clapping, or playing music to evaluate how background noise is filtered — and experience the voice clarity improvement.
 
