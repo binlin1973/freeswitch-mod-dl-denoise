@@ -7,7 +7,7 @@ Set up your SIP client with the following:
 
 SIP Server IP: 1.13.165.133
 
-SIP Port: 5070 (UDP)
+SIP Port: 6070 (UDP)
 
 STUN Server: stun.freeswitch.org
 
